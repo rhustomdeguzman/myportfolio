@@ -35,7 +35,7 @@
 		});
 
 	// Dropdowns.
-		$('#nav > ul').dropotron({
+		/*$('#nav > ul').dropotron({
 			alignment: 'right',
 			hideDelay: 350
 		});
@@ -69,7 +69,7 @@
 					side: 'left',
 					target: $body,
 					visibleClass: 'navPanel-visible'
-				});
+				});*/
 
 	// Parallax.
 	// Disabled on IE (choppy scrolling) and mobile platforms (poor performance).
